@@ -1,0 +1,16 @@
+/*Relative Type Sizes*/
+/* Formula => target % context = result */
+
+/*target font size is 24px, and content is 16px*/
+/*24px % 16px = 1.5 em */
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.5em; /*24 % 16 = 1.5 */
+	font-weight: normal;
+}
+
+p {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.000em; /*px to em calculator* for 16px/
+}
